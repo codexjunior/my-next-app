@@ -4,8 +4,6 @@ import React, { useState, useEffect } from 'react';
 
 // --- TYPE DEFINITIONS ---
 interface Exercise {
-  // ... rest of your code
-  
 import React, { useState, useEffect } from 'react';
 
 // --- TYPE DEFINITIONS ---
