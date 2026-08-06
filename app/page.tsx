@@ -246,7 +246,7 @@ export default function FrenchCourseApp() {
                   fontWeight: selectedWeek === week.weekNumber ? "700" : "500",
                   cursor: "pointer",
                   display: "flex",
-                  justify: "space-between",
+                  justifyContent: "space-between",
                   alignItems: "center"
                 }}
               >
