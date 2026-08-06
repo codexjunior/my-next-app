@@ -4,10 +4,6 @@ import React, { useState, useEffect } from 'react';
 
 // --- TYPE DEFINITIONS ---
 interface Exercise {
-import React, { useState, useEffect } from 'react';
-
-// --- TYPE DEFINITIONS ---
-interface Exercise {
   question: string;
   options?: string[];
   answer: string;
